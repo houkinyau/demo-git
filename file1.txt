@@ -1,2 +1,3 @@
 first in file1
 second in file1
+third in file1
